@@ -1,0 +1,7 @@
+/backend/node_modules
+/web/node_modules
+/mobile/node_modules
+/backend/src/database/database.sqlite
+/backend/uploads/*
+!/backend/uploads/.gitkeep
+/node_modules
